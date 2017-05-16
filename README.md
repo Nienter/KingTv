@@ -1,4 +1,4 @@
-
+#此为参考学习作品
 # KingTV
 [![Download](https://img.shields.io/badge/download-App-blue.svg)](https://raw.githubusercontent.com/jenly1314/KingsTV/master/app/app-release.apk)
 [![](https://jitpack.io/v/jenly1314/KingTV.svg)](https://jitpack.io/#jenly1314/KingTV)
@@ -46,3 +46,4 @@
 
 ## 声明
 ####    本项目纯属个人作品，是高仿全民直播Android App 3.0.1版本，仅供技术参考，请维护全民直播平台的合法权益，禁止用于一切商业用途。如有疑问请联系作者，谢谢合作。
+
